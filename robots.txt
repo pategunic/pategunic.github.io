@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://pategunic.github.io/sitemap.html.gz
+Sitemap: https://pategunic.github.io/app/sitemap.html.gz
+Sitemap: https://pategunic.github.io/assets/sitemap.html.gz
+Sitemap: https://pategunic.github.io/css/sitemap.html.gz
+Sitemap: https://pategunic.github.io/includes/sitemap.html.gz
+Sitemap: https://pategunic.github.io/item/sitemap.html.gz
+Sitemap: https://pategunic.github.io/src/sitemap.html.gz
